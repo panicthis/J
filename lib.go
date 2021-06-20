@@ -5,5 +5,5 @@ import (
 )
 
 func Visit() {
-	fmt.Println("J 1.0.0")
+	fmt.Println("J 2.0.0")
 }
